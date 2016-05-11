@@ -18,7 +18,7 @@ if (ip == $ip) {
 
 
 } else {
-	print "Access Deined!";
+	print "Access Deined! $ip";
 }
 
 ?>
